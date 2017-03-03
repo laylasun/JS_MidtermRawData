@@ -1,0 +1,446 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 0,
+        "Name": "Amazon Tower II - Day1",
+        "Address": "2121 7th Ave",
+        "AppraiseValue": "$311,546,400 ",
+        "BuiltYr": 2016,
+        "NetSQFT": "1,485,500",
+        "Neighborhood": "Belltown",
+        "Notes": "",
+        "Location": "(47.616277, -122.340006)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340006,
+          47.616277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 1,
+        "Name": "Blanchard Plaza",
+        "Address": "2201 6th Ave",
+        "AppraiseValue": "$89,730,000 ",
+        "BuiltYr": 1983,
+        "NetSQFT": "255,818",
+        "Neighborhood": "Belltown",
+        "Notes": "Fully-occupied 2013-2025",
+        "Location": "(47.615984, -122.341627)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341627,
+          47.615984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 2,
+        "Name": "Amazon Biosphere",
+        "Address": "2131 7th Ave",
+        "AppraiseValue": "$11,016,000 ",
+        "BuiltYr": 2018,
+        "NetSQFT": "65,000",
+        "Neighborhood": "Belltown",
+        "Notes": "",
+        "Location": "(47.615830, -122.339463)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339463,
+          47.61583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 3,
+        "Name": "Amazon Tower I - Doppler",
+        "Address": "2021 7th Ave",
+        "AppraiseValue": "$435,233,000 ",
+        "BuiltYr": 2014,
+        "NetSQFT": "997,378",
+        "Neighborhood": "Belltown",
+        "Notes": "",
+        "Location": "(47.614977, -122.338407)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338407,
+          47.614977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 4,
+        "Name": "Rar2 - West 8th Llc",
+        "Address": "2001 8th Ave",
+        "AppraiseValue": "$266,227,000 ",
+        "BuiltYr": 2009,
+        "NetSQFT": "498,891",
+        "Neighborhood": "Belltown",
+        "Notes": "Partially leased since 2011",
+        "Location": "(47.615885, -122.337183)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337183,
+          47.615885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 5,
+        "Name": "Amazon-Blackfoot",
+        "Address": "1918 8th Ave",
+        "AppraiseValue": "$336,534,000 ",
+        "BuiltYr": 2009,
+        "NetSQFT": "668,342",
+        "Neighborhood": "Belltown",
+        "Notes": "",
+        "Location": "(47.615701, -122.336177)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336177,
+          47.615701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 6,
+        "Name": "Amazon-Kumo",
+        "Address": "1915 Terry Ave",
+        "AppraiseValue": "$69,752,000 ",
+        "BuiltYr": 1953,
+        "NetSQFT": "263,216",
+        "Neighborhood": "Belltown",
+        "Notes": "Fully-occupied 2014-2024",
+        "Location": "(47.616339, -122.334442)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334442,
+          47.616339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 7,
+        "Name": "Midtown21",
+        "Address": "1007 Stewart St",
+        "AppraiseValue": "$75,172,500 ",
+        "BuiltYr": 2016,
+        "NetSQFT": "338,173",
+        "Neighborhood": "Belltown",
+        "Notes": "Fully-occupied",
+        "Location": "(47.616409, -122.333062)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333062,
+          47.616409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 8,
+        "Name": "Amazon-Mayday Campus",
+        "Address": "1220 Howell St",
+        "AppraiseValue": "$90,621,000 ",
+        "BuiltYr": 2000,
+        "NetSQFT": "184,691",
+        "Neighborhood": "Belltown",
+        "Notes": "",
+        "Location": "(47.617442, -122.330200)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3302,
+          47.617442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 9,
+        "Name": "Amazon-Roxanne",
+        "Address": "202 Westlake Ave N",
+        "AppraiseValue": "$69,754,000 ",
+        "BuiltYr": 2013,
+        "NetSQFT": "130,710",
+        "Neighborhood": "South Lake Union",
+        "Notes": " Whole building bought at record price $97.4M",
+        "Location": "(47.619942, -122.338178)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338178,
+          47.619942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 10,
+        "Name": "Amazon-Houston",
+        "Address": "224 Westlake Ave N",
+        "AppraiseValue": "$9,259,100 ",
+        "BuiltYr": 1926,
+        "NetSQFT": "30,313",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.620583, -122.338088)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338088,
+          47.620583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 11,
+        "Name": "Amazon-Arizona",
+        "Address": "207 Boren Ave N",
+        "AppraiseValue": "$173,854,800 ",
+        "BuiltYr": 2012,
+        "NetSQFT": "335,992",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.620277, -122.336050)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33605,
+          47.620277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 12,
+        "Name": "Amazon-Apollo",
+        "Address": "325 9th Ave N",
+        "AppraiseValue": "$163,257,000 ",
+        "BuiltYr": 2014,
+        "NetSQFT": "317,442",
+        "Neighborhood": "South Lake Union",
+        "Notes": "sold to others",
+        "Location": "(47.621685, -122.340001)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340001,
+          47.621685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 13,
+        "Name": "Amazon-Dawson Campus",
+        "Address": "345 Boren Ave N",
+        "AppraiseValue": "$263,424,000 ",
+        "BuiltYr": 2010,
+        "NetSQFT": "282,162",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.621773, -122.336620)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33662,
+          47.621773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 14,
+        "Name": "Amazon-Brazil",
+        "Address": "400 9th Ave N",
+        "AppraiseValue": "$163,113,000 ",
+        "BuiltYr": 2014,
+        "NetSQFT": "317,189",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.622286, -122.339587)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339587,
+          47.622286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 15,
+        "Name": "Amazon-Bigfoot",
+        "Address": "515 Westlake Ave N",
+        "AppraiseValue": "$180,790,000 ",
+        "BuiltYr": 2013,
+        "NetSQFT": "148,069",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.624441, -122.339109)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339109,
+          47.624441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 16,
+        "Name": "Amazon-Day1-Van Vorst",
+        "Address": "440 Terry Ave N",
+        "AppraiseValue": "$148,033,000 ",
+        "BuiltYr": 2009,
+        "NetSQFT": "162,325",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.622928, -122.336866)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336866,
+          47.622928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 17,
+        "Name": "Amazon-Rufus",
+        "Address": "550 Terry Ave N",
+        "AppraiseValue": "$27,572,000 ",
+        "BuiltYr": 2010,
+        "NetSQFT": "164,363",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.623637, -122.336766)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336766,
+          47.623637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 18,
+        "Name": "Amazon-Wainwright",
+        "Address": "535 Terry Ave N",
+        "AppraiseValue": "$59,245,000 ",
+        "BuiltYr": 2009,
+        "NetSQFT": "115,484",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.623997, -122.337511)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337511,
+          47.623997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 19,
+        "Name": "Amazon-Obidos",
+        "Address": "551 Boren Ave N",
+        "AppraiseValue": "$127,572,000 ",
+        "BuiltYr": 2010,
+        "NetSQFT": "164,363",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.624236, -122.336092)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336092,
+          47.624236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingID": 20,
+        "Name": "Amazon-Fiona",
+        "Address": "500 Boren Ave N",
+        "AppraiseValue": "$91,121,000 ",
+        "BuiltYr": 2009,
+        "NetSQFT": "172,371",
+        "Neighborhood": "South Lake Union",
+        "Notes": "",
+        "Location": "(47.623890, -122.335575)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335575,
+          47.62389
+        ]
+      }
+    }
+  ]
+}
