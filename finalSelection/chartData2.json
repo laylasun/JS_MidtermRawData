@@ -1,0 +1,134 @@
+[
+  {
+    "S_HOOD": "Belltown",
+    "ID": 1,
+    "Frequency": 0.12285,
+    "color": "#4b2173",
+    "bikefreq": 0.222826,
+    "cultufreqF": 0.19457,
+    "theftfreq": 0.167579,
+    "cocaine": 0.059322,
+    "prosti": 0.090566
+  },
+  {
+    "S_HOOD": "Broadway",
+    "ID": 2,
+    "Frequency": 0.140049,
+    "color": "#431d67",
+    "bikefreq": 0.125,
+    "cultufreqF": 0.285068,
+    "theftfreq": 0.141292,
+    "cocaine": 0.0508475,
+    "prosti": 0.008805
+  },
+  {
+    "S_HOOD": "Central Business District",
+    "ID": 3,
+    "Frequency": 0.223587,
+    "color": "#3c1a5c",
+    "bikefreq": 0.266304,
+    "cultufreqF": 0.135747,
+    "theftfreq": 0.24425,
+    "cocaine": 0.139831,
+    "prosti": 0.0339623
+  },
+  {
+    "S_HOOD": "Eastlake",
+    "ID": 4,
+    "Frequency": 0.0589681,
+    "color": "#9379ab",
+    "bikefreq": 0,
+    "cultufreqF": 0,
+    "theftfreq": 0.0186199,
+    "cocaine": 0,
+    "prosti": 0
+  },
+  {
+    "S_HOOD": "First Hill",
+    "ID": 5,
+    "Frequency": 0.0515971,
+    "color": "#a590b9",
+    "bikefreq": 0.0742754,
+    "cultufreqF": 0.108597,
+    "theftfreq": 0.0744797,
+    "cocaine": 0.0211864,
+    "prosti": 0.0075472
+  },
+  {
+    "S_HOOD": "International District",
+    "ID": 6,
+    "Frequency": 0.0737101,
+    "color": "#81639d",
+    "bikefreq": 0.0271739,
+    "cultufreqF": 0,
+    "theftfreq": 0.0514786,
+    "cocaine": 0.0805085,
+    "prosti": 0.215094
+  },
+  {
+    "S_HOOD": "Minor",
+    "ID": 7,
+    "Frequency": 0.0515971,
+    "color": "#b7a6c7",
+    "bikefreq": 0,
+    "cultufreqF": 0.081448,
+    "theftfreq": 0.0361446,
+    "cocaine": 0.0381356,
+    "prosti": 0.0515723
+  },
+  {
+    "S_HOOD": "Pike-Market",
+    "ID": 8,
+    "Frequency": 0.036855,
+    "color": "#c9bcd5",
+    "bikefreq": 0.0471014,
+    "cultufreqF": 0.0950226,
+    "theftfreq": 0.0799562,
+    "cocaine": 0.148305,
+    "prosti": 0.0050315
+  },
+  {
+    "S_HOOD": "Pioneer Square",
+    "ID": 9,
+    "Frequency": 0.0933661,
+    "color": "#6e4d8f",
+    "bikefreq": 0.106884,
+    "cultufreqF": 0.0045249,
+    "theftfreq": 0.0766703,
+    "cocaine": 0.461864,
+    "prosti": 0.036478
+  },
+  {
+    "S_HOOD": "South Lake Union",
+    "ID": 10,
+    "Frequency": 0.113022,
+    "color": "#5d3781",
+    "bikefreq": 0.121377,
+    "cultufreqF": 0.0769231,
+    "theftfreq": 0.0799562,
+    "cocaine": 0,
+    "prosti": 0.527044
+  },
+  {
+    "S_HOOD": "Westlake",
+    "ID": 11,
+    "Frequency": 0.002457,
+    "color": "#ede8f1",
+    "bikefreq": 0.0054348,
+    "cultufreqF": 0.0045249,
+    "theftfreq": 0.0098576,
+    "cocaine": 0,
+    "prosti": 0.0025157
+  },
+  {
+    "S_HOOD": "Yesler Terrace",
+    "ID": 12,
+    "Frequency": 0.031941,
+    "color": "#dbd2e3",
+    "bikefreq": 0.0036232,
+    "cultufreqF": 0.0135747,
+    "theftfreq": 0.0197152,
+    "cocaine": 0,
+    "prosti": 0.0213836
+  }
+]
